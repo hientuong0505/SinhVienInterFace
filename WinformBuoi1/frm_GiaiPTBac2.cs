@@ -53,6 +53,7 @@ namespace WinformBuoi1
 
         private void btn_THOAT_Click(object sender, EventArgs e)
         {
+            //Thoat
             Application.Exit();
         }
     }
